@@ -1,0 +1,55 @@
+ .container{
+  background-color: #DCDCDC;
+    width: 653px;
+    margin-left: 344px;
+    text-align: center;
+    }
+.error{
+  color: #FF0000;
+}
+    .clearfix{
+    background-color: white;
+        padding: 19px;
+    margin: 12px 0;
+    border: 1px solid;
+    cursor: pointer;
+        margin: 12px 0;
+    border: 1px solid;
+    cursor: pointer;
+    margin-right: 400px;
+    margin-left: 198px;
+    color: black;
+    width: 181px;
+    height: 61px;
+    background: darkolivegreen;
+    margin-top: -52px;
+    }
+    .div{
+      background-color: lightgray;height: 64px;
+    width: 184px;margin-left: 123px;font-family: cursive;border: 1px solid;cursor: pointer; color: black;
+    margin-top: 24px;background: darkolivegreen;
+    }
+    .b1{
+  background-color: whitesmoke;height: 27px;  font-size: 18px;border-radius: 30px;border: 1px solid;
+  } 
+  .middle1{
+  background-color: whitesmoke;height: 1200px;
+  }
+  .h1{
+  font-family: cursive;font-size: 40px;
+  }
+  .container input[type=text]{
+   background-color: white;border: 1px solid;box-shadow: 0px 0px 10px;font-size: 20px;width: 390px;border-radius: 40px;height:44px;
+  }
+  .container input[type=password]{
+  background-color: white;border: 1px solid;box-shadow: 0px 0px 10px;font-size: 20px;width: 390px;border-radius: 40px;height:44px;
+  }
+  .container input[type=textarea]{
+   font-size: 20px;border: 1px solid;box-shadow: 0px 0px 10px;  height:142px; width: 390px;border-radius: 30px;
+  }
+  .div button[type=submit]{
+    background-color: lightgray;width: 136px;height: 43px;font-family: cursive;margin-top: 9px;font-size: 24px;
+  }
+  .clearfix button[type=button]{
+  background-color: lightgray;width: 136px;height: 43px;font-family: cursive; margin-top: -11px;font-size: 24px;padding: 5px;
+  }

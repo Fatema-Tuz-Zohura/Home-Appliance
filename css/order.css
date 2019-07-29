@@ -1,0 +1,132 @@
+ .middle1{
+ 	background-color: white;
+ 	height: 1500px;
+ }
+.container{
+	background-color: #DCDCDC;
+	width: 401px;
+	margin-left: 130px;
+	text-align: center;
+}
+middle1-input[type=text]
+{
+	background-color: white;
+	font-size: 16px;
+	width: 345px;
+	border-radius: 40px;
+	height: 36px;
+
+}
+.emaill{
+	background-color: white;
+	font-size: 16px;
+	width: 345px;
+	border-radius: 40px;
+	height: 36px;
+
+}
+.payment{
+
+    background-color: lightgray;
+    height: 64px;
+    width: 292px;
+    margin-left: 298px;
+    font-family: cursive;
+    border: 1px solid;
+    cursor: pointer;
+    color: black;
+    margin-top: 24px;
+    background: darkolivegreen;
+}
+.payment_btn{
+	 background-color: lightgray;
+	 width: 277px;
+	 height: 49px;
+	 font-family: cursive;
+	 margin-top: 6px;
+	 font-size: 25px;	 
+}
+
+ .textarea{
+ 	font-size: 19px;
+ 	  height:142px; 
+ 	  width: 336px;
+ 	  border-radius: 30px;
+ 	   }
+
+ .container_contact input[type=text]{
+ 	background-color: white; 
+ 	font-size: 19px;
+ 	width: 336px;
+ 	border-radius: 40px;
+ 	height: 38px;
+ 	 }	   
+.mail{
+background-color: white;
+font-size: 19px;
+width: 336px;
+border-radius: 40px;
+height: 38px;
+}
+
+.mid{
+    background-color: #DCDCDC;
+    height: 519px;
+    width: 1042px;
+    margin-left: 232px;
+    border-radius: 116px;
+    
+   
+
+}
+.aaa{
+  background-color: lightgray;
+    height: 773px;
+    width: 440px;
+    margin-left: 96px;
+    margin-top: 75px;
+   
+
+}
+.tab{
+  background-color: lightgray;
+    height: 300px;
+    width: 700px;
+    margin-top: -750px;
+    margin-left: 543px;
+   
+}
+  .btn{
+background-color: darkolivegreen;
+    height: 56px;
+    width: 278px;
+    margin-left: 900px;
+    cursor: pointer;margin-top: 10px;
+    border: 1px solid;
+  }  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

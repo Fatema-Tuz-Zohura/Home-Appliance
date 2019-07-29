@@ -1,0 +1,187 @@
+.dropbtn {
+       background-color: #cceeff;
+    color: black;
+    padding: 31px;
+    font-size: 21px;
+    border: none;
+    margin-top: -2%;
+    margin-left: 1px;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #B0E0E6;
+    min-width: 350px;
+    box-shadow: white;
+     font-size: 50px;
+    border: none;
+    }
+
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color:#B0E0E6;}
+
+
+.Category_product{
+  width: 100%;
+  height: 800px;
+  padding: 90px;
+  background-color: whitesmoke;
+}
+
+.image_div{
+  float: left;
+  width: 20%;
+  height: 70vh;
+  margin-left: 9%;
+ color: black;
+}
+
+
+
+
+
+.row1{
+  width: 101%;
+  height: 900px;
+ padding: -1px;
+ background-color: white;
+  margin-top: -8px;
+}
+
+.middle1{
+  background-color: gray;
+  height: 400px;
+}
+.middle2{
+
+      padding: 8px;
+    width: 100%;
+    height: 84px;
+    background-color: #cceeff;
+    margin-top: 9%;
+  }
+
+
+.button{
+  background-color: red;
+  height: 10%;
+}
+
+
+.row{
+  width: 100%;
+  height: 900px;
+  padding: 90px;
+  background-color: whitesmoke;
+}
+
+
+.pp_image{
+  width: 130%;
+  height: 58%;
+  border: 1px solid;
+}
+
+
+.col2{
+
+  float: left;
+  width: 19%;
+  height: 85vh;
+  margin-left: 8%;
+ color: black;
+}
+
+
+  .bnm{
+  background-color: whitesmoke;height: 27px;
+      font-size: 18px;border-radius: 30px;border: 1px solid;
+  }
+.background-pic
+  {
+   background-color: white;height: 150px;width: 975px;
+    margin-left: 170px;text-align: justify;
+  }
+  .div_btn
+  {
+  background-color: white;margin: 12px 0;
+    border: 1px solid; cursor: pointer;margin-right: 400px;margin-left: 63px;color: black;
+    width: 85px;height: 32px;background: darkolivegreen;padding: 7px;
+  }
+.new_product
+{
+height: 1400px;background-color: whitesmoke;
+}
+.head{
+  border: 1px solid;width: 369px;
+  height: 81px;font-family: cursive;
+  padding: 21px;background-color: lightgrey;
+  font-size: 29px;
+}
+
+.btn{
+  background-color: white;
+    margin: 12px 0;
+    border: 1px solid;
+    cursor: pointer;
+    margin-right: 400px;
+    margin-left: 79px;
+    color: black;
+    width: 120px;
+    height: 42px;
+    background: darkolivegreen;
+    padding: 7px;
+    border-radius: 30px;
+  }
+.bv{
+  background-color: lightgray;
+    width: 110px;
+    height: 33px;
+    font-family: cursive;
+    font-size: 20px;
+    margin-left: -3px;
+    border-radius: 30px;
+    margin-top: -4px;
+    font-weight: bold;
+}
+.bvb{
+  background-color: lightgray;
+   width: 111px;
+    height: 34px;
+    font-family: cursive;
+    font-size: 20px;
+    margin-left: -3px;
+    border-radius: 30px;
+    margin-top: -3px;
+    font-weight: bold;
+}
+.btn2{
+  background-color: white;
+ font-family: cursive;
+    font-size: 20px;
+   color: black;
+    width: 120px;
+    height: 42px;
+  background: darkolivegreen;
+     padding: 7px;
+    border-radius: 30px;
+    margin-top: -54px;
+    margin-left: 149px;
+}

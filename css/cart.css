@@ -1,0 +1,110 @@
+.design{
+	    background-color: white;
+        height: 196px;
+    width: 1059px;
+    margin-left: 109px;
+    margin-top: 23px;
+}
+
+
+
+
+.image{
+background-color: white;
+       height: 196px;
+    width: 213px;
+    margin-left: 47px;
+}
+.name{
+	    background-color: white;
+    height: 81px;
+    width: 459px;
+    margin-left: 289px;
+    margin-top: -190px;
+    padding: 10px;
+}
+.brand_name{
+	background-color: white;
+    height: 49px;
+    width: 248px;
+    margin-left: 292px;
+    margin-top: -30px;
+    padding: 10px;
+
+}
+.quantity{
+	background-color: white;
+    height: 73px;
+    width: 128px;
+   margin-left: 740px;
+    margin-top: -71px;
+    padding: 10px;
+}
+
+.amount{
+
+background-color: white;
+   height: 75px;
+    width: 129px;
+   margin-left: 894px;
+    margin-top: -72px;
+    padding: 10px;
+
+}
+
+.delete{
+	background-color: green;
+	color: white;
+
+    height: 39px;
+    width: 109px;
+    margin-left: 950px;
+    margin-top: 43px;
+        text-align: center;
+        padding: 1px;
+}
+
+
+.continue_shopping{
+    background-color: lightgray;
+    height: 40px;
+    width: 321px;
+    margin-left: 738px;
+    margin-top: 27px;
+    padding: 2px;
+    text-align: center;
+
+}
+.item_number{
+background-color: white;
+    height: 54px;
+    width: 81%;
+    margin-left: 111px;
+    padding: 4px;
+    margin-top: 78px;
+    
+}
+
+
+.add_shop_btn{
+    border: 1px solid;
+    width: 89%;
+    padding: 5%;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.container2{
+    background-color: white;padding: 19px;
+    margin: 12px 0;
+    border: 1px solid;
+    cursor: pointer;
+    margin-right: 400px;
+    margin-left: 610px;
+    color: black;
+    width: 317px;
+    height: 68px;
+    background: darkolivegreen;
+     margin-top: 51px;
+
+ }

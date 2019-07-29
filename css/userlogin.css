@@ -1,0 +1,69 @@
+body {font-family: calibry;
+background-color: #F5F5F5;
+border-radius: 30px;
+}
+
+
+
+.middle1{
+  margin-right: 200px;
+  background-color:red; 
+
+}
+
+
+
+button:hover {
+    opacity: 0.8;
+}
+
+
+
+
+.container2 {
+background-color: antiquewhite;
+    padding: 45px;
+    margin: 10px 0;
+    border: none;
+    cursor: pointer;
+    margin-right: 249px;
+    margin-left: 127px;
+    color: black;
+    height: 114px;
+
+}
+
+span.psw {
+    float: right;
+    padding-top: 8px;
+}
+
+@media screen and (max-width: 300px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+    width: 10%;
+    padding: 10px 25px;
+    
+}
+.contain{
+    background-color: white; padding: 19px;margin: 12px 0;border: 1px solid;
+    cursor: pointer;margin-right: 400px;margin-left: 188px;color: black;width: 181px;height: 61px;background: darkolivegreen; margin-top: 51px;
+    }
+    .mid{
+    background-color: #DCDCDC;
+    height: 1000px;
+    width: 653px;
+    margin-left: 383px;
+    }
+    .btnn{
+  background-color: lightgray;width: 136px;height: 43px;
+    font-family: cursive;margin-top: -12px;font-size: 24px;  
+    }
+    .forgot{
+    background-color: #DCDCDC;height: 77px;width: 188px;margin-left: 423px;
+    margin-top: -84px;font-family: cursive;
+    }
+   

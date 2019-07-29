@@ -1,0 +1,138 @@
+.dropbtn {
+   background-color: #cceeff;
+    color: black;
+    padding: 35px;
+    font-size: 20px;
+    border: none;
+    margin-top: -1%;
+    margin-left: 1px;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #B0E0E6;
+    min-width: 350px;
+    box-shadow: white;
+     font-size: 50px;
+    border: none;
+    }
+
+.row1{
+  width: 100%;
+  height: 100px;
+ padding: -1px;
+  background-color:white;
+  margin-top: 10px;
+}
+.dropdown-content a {
+    color: black;
+    padding: 52px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color:  #1E90FF;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color:#B0E0E6;}
+
+
+.button{
+  background-color: red;
+  height: 10%;
+}
+
+
+
+.middle1{
+
+  padding: -20px; 
+  width: 100%;
+  height: 91px;
+   background-color: white ;
+   margin-top: 10%;
+  }
+
+
+.row2 {
+height: 9300px;
+background-color: #f2f2f2;
+}
+
+
+
+.pp_image{
+  width: 120%;
+  height: 58%;
+  border: 1px solid;
+}
+
+
+.col2{
+
+  float: left;
+  width: 19%;
+  height: 85vh;
+  margin-left: 8%;
+ color: black;
+}
+.btn{
+  background-color: white;
+    margin: 12px 0;
+    border: 1px solid;
+    cursor: pointer;
+    margin-right: 400px;
+    margin-left: 85px;
+    color: black;
+    width: 120px;
+    height: 42px;
+    background: darkolivegreen;
+    padding: 7px;
+    border-radius: 30px;
+  }
+.bv{
+  background-color: lightgray;
+   width: 111px;
+    height: 34px;
+    font-family: cursive;
+    font-size: 20px;
+    margin-left: -3px;
+    border-radius: 30px;
+    margin-top: -4px;
+    font-weight: bold;
+}
+.bvb{
+  background-color: lightgray;
+   width: 134px;
+    height: 34px;
+    font-family: cursive;
+    font-size: 20px;
+    margin-left: -3px;
+    border-radius: 30px;
+    margin-top: -3px;
+    font-weight: bold;
+}
+.btn2{
+  background-color: white;
+ font-family: cursive;
+    font-size: 20px;
+   color: black;
+    width: 141px;
+    height: 42px;
+  background: darkolivegreen;
+     padding: 7px;
+    border-radius: 30px;
+    margin-top: -54px;
+    margin-left: 148px;
+}
+.bnm{
+background-color: whitesmoke;height: 27px;
+    font-size: 18px;border-radius: 30px;border: 1px solid;
+}

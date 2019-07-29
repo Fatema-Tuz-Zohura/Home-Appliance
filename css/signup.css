@@ -1,0 +1,248 @@
+* {box-sizing: border-box;}
+
+body { 
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+.header {
+  overflow: hidden;
+  background-color: white;
+  padding:30px;
+  width: 100%;
+
+
+  
+}
+
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 25px;
+  text-decoration: none;
+  font-size: 22px; 
+  line-height: 30px;
+  border-radius: 30px;
+}
+
+.header a.logo {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.header a:hover {
+  background-color: red;
+  color: black;
+}
+
+.header a.active {
+  color: black ;
+  ;
+}
+
+.header_logo_div{
+  float: left;
+  width: 20%;
+}
+
+.search-container{
+  float: left;
+  width: 40%;
+}
+
+
+input[type=text]{
+  width: 52%; 
+  height: 20%; 
+  font-size: 22px;  
+  top: 10px;
+  border-radius: 40px;
+  border: 1px solid;
+}
+
+
+input[type=password]{
+  width: 42%; 
+  height: 20%; 
+  font-size: 22px;  
+  top: 10px;
+  border: 1px solid;
+
+}
+
+button[type=submit]{
+   width: 22%; 
+  height: 7%; 
+  font-size: 15px; 
+  top: 10px;
+  
+  background-color: lightgray;
+  color: black;
+  padding: 6px 1px;
+  border: 1px solid;
+
+}
+
+
+.header-right {
+  float: right;
+  width: 29%;
+}
+
+
+
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  
+}
+
+
+
+.middle1{
+  background-color: whitesmoke;
+}
+
+button {
+    background-color: palegreen;
+    color: black;
+    padding: 10px 1px;
+    margin: 20px 0;
+    border: none;
+    cursor: pointer;
+    width: 24%;
+    opacity: 36.9;
+    border-radius: 40px;
+}
+
+button:hover {
+    opacity:1;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+@media screen and (max-width: 300px) {
+    .cancelbtn, .signupbtn {
+       width: 100%;
+    }
+}
+
+.footer
+{
+
+background-color: white;
+height: 220px;
+ width: 100%;
+
+ 
+
+}
+.fleft{
+  text-align: left;
+  float: left;
+  margin-left: 50px;
+}
+
+
+.fmiddle{
+  
+  float: left;
+  float: center;
+  margin-left: 400px;
+}
+
+
+  
+
+
+.fright{
+  text-align: right;
+  float: right;
+  margin-right: 60px;
+
+}
+
+
+.twiter{
+  padding: 0px;
+  width: 40px;
+  text-decoration: none;
+}
+
+.twiter{
+  color: white;
+}
+.google{
+  padding: 0px;
+  width: 30px;
+  text-decoration: none;
+}
+
+
+.google{
+  color: white;
+}
+
+.youtube{
+  padding: 0px;
+  width: 35px;
+  text-decoration: none;
+}
+
+.youtube{
+  color: white;
+}
+.instagram{
+  padding: 0px;
+  width: 32px;
+  text-decoration: none;
+}
+
+.instagram{
+  color: white;
+}
+.blog{
+  padding: 0px;
+  width: 30px;
+  text-decoration: none;
+}
+
+.blog{
+  color: white;
+}
+.facebook{
+  padding: 0px;
+  width: 25px;
+  text-decoration: none;
+}
+
+
+
+.facebook{
+  color: white;
+}
+.linkedin{
+  padding: 0px;
+  width: 32px;
+  text-decoration: none;
+}
+
+
+.linkedin{
+  color: white;
+}
+
+.bellow2{
+  text-align: center;
+    background-color: #b35900;
+    height: 153px;
+
+}
